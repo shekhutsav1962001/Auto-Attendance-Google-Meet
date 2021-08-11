@@ -1,5 +1,5 @@
 # Auto-Attendance-Google-Meet
-Auto-Attendance-Google-Meet is a chrome extension which will type and send your attendance [ie. CE126 Utsav Shekh] in the chatbox automatically✌
+Auto-Attendance-Google-Meet is a chrome extension that will type and send your attendance [ie. CE126 Utsav Shekh] in the chatbox automatically whenever someone writes their attendance in meet chat box✌
 
 ```
 -> Note that before starting of attendance system your chat box of google meet is clear!
