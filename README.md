@@ -5,7 +5,7 @@ Auto-Attendance-Google-Meet is a chrome extension which will type and send your 
 -> Note that before starting of attendance system your chat box of google meet is clear!
 -> It will continuousy check for messages in the chatbox 
 -> If a message in chatbox is similar to attendance (ie. CE126,ce126,CE126 Utsav Shekh,ce126 utsav shekh) 
-    then it will write your attendance in chatbox automatically.
+then it will write your attendance in chatbox automatically.
 -> There we go!
 
 ```
